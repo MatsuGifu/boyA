@@ -6,7 +6,25 @@
 			"BoyA.8192/texture_00.png"
 		],
 		"Physics": "BoyA.physics3.json",
-		"DisplayInfo": "BoyA.cdi3.json"
+		"DisplayInfo": "BoyA.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Anger_10",
+				"File": "../../motion/Anger/Anger_10.exp3.json"
+			},
+			{
+				"Name": "Regret_10",
+				"File": "../../motion/Regret/Regret_10.exp3.json"
+			},
+			{
+				"Name": "happy11-10",
+				"File": "../../motion/Joy/Joy_10.exp3.json"
+			},
+			{
+				"Name": "sad11-10",
+				"File": "../../motion/Sad/Sad_10.exp3.json"
+			}
+		]
 	},
 	"Groups": [
 		{
