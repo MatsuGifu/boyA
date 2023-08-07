@@ -386,12 +386,12 @@
 		{
 			"Id": "ParamGroup9",
 			"GroupId": "",
-			"Name": "強い笑い"
+			"Name": "支配的笑顔"
 		},
 		{
 			"Id": "ParamGroup10",
 			"GroupId": "",
-			"Name": "弱い笑い"
+			"Name": "服従的笑顔"
 		},
 		{
 			"Id": "ParamGroup2",
@@ -451,12 +451,12 @@
 	],
 	"Parts": [
 		{
-			"Id": "Part23",
-			"Name": "BoyA_笑顔資料.psd"
+			"Id": "Part27",
+			"Name": "BoyA_服従的笑顔JPG.psd"
 		},
 		{
-			"Id": "Part21",
-			"Name": "BoyA_顎影.psd"
+			"Id": "Part24",
+			"Name": "BoyA_支配的笑顔JPG.psd"
 		},
 		{
 			"Id": "Part",
@@ -497,6 +497,14 @@
 		{
 			"Id": "Part19",
 			"Name": "足元靴"
+		},
+		{
+			"Id": "Part23",
+			"Name": "服従パーツ"
+		},
+		{
+			"Id": "Part25",
+			"Name": "支配的パーツ"
 		},
 		{
 			"Id": "Part22",
