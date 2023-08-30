@@ -25,11 +25,6 @@
 			"Id": "ParamMouth_Fear",
 			"Value": 1,
 			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouthWrinkle",
-			"Value": 1,
-			"Blend": "Add"
 		}
 	]
 }
