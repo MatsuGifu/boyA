@@ -25,12 +25,7 @@
 		},
 		{
 			"Id": "ParamMouth_Fear",
-			"Value": 0.795,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouthForm",
-			"Value": -0.479,
+			"Value": 0.821,
 			"Blend": "Add"
 		},
 		{
