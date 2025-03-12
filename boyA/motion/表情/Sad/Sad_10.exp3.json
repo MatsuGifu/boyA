@@ -30,6 +30,11 @@
 			"Id": "ParamMouthWrinkle",
 			"Value": 0.5,
 			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"Value": -1,
+			"Blend": "Add"
 		}
 	]
 }

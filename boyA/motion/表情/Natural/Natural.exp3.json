@@ -1,5 +1,7 @@
 {
 	"Type": "Live2D Expression",
+	"FadeInTime": 0.2,
+	"FadeOutTime": 0.2,
 	"Parameters": [
 		{
 			"Id": "ParamEyeLOpen_Happy3",
@@ -23,11 +25,6 @@
 		},
 		{
 			"Id": "ParamMouth_Happy3",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouthWrinkle",
 			"Value": 0,
 			"Blend": "Add"
 		},
@@ -78,11 +75,6 @@
 		},
 		{
 			"Id": "ParamMouth_Disgust",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouthWrinkle",
 			"Value": 0,
 			"Blend": "Add"
 		},
@@ -158,11 +150,6 @@
 		},
 		{
 			"Id": "ParamMouth_Happy",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouthWrinkle",
 			"Value": 0,
 			"Blend": "Add"
 		},
