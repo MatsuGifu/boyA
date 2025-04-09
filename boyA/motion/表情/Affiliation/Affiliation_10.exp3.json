@@ -25,7 +25,7 @@
 		},
 		{
 			"Id": "ParamMouth_Happy3",
-			"Value": 0,
+			"Value": 0.274,
 			"Blend": "Add"
 		},
 		{
@@ -35,7 +35,7 @@
 		},
 		{
 			"Id": "ParamMouth_Happy",
-			"Value": 0.821,
+			"Value": 1,
 			"Blend": "Add"
 		}
 	]
