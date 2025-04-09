@@ -60890,7 +60890,6 @@ let boyA_global_Blink_Flag = true;
                                             const value = Math.abs(Math.sin(2 * Math.PI * this.speakSpeed * now));
                                             // 口パクの大きさ
                                             internalModel.coreModel.addParameterValueById("ParamMouthOpenY", value, this.speakMouthSize /* 0.8 */);
-                                            console.log("ParamMouthOpenY", value, this.speakMouthSize);
                                             let paramMouth;
                                             if (internalModel.coreModel.getParameterValueById("ParamNeutral") == 0) {
                                                 paramMouth = internalModel.coreModel.getParameterValueById("ParamMouth_Neutral");
