@@ -60691,7 +60691,7 @@ let boyA_global_Blink_Flag = true;
                                 }
                                 this.model.focus(x, y);
                             };
-                            this.startSpeak = (speakSpeed) => {
+                            this.startSpeak = (speakSpeed, Mouth_Size) => {
                                 if (this.model === null || speakSpeed < 0) {
                                     throw new Error("モデルがないです");
                                 }
@@ -60703,6 +60703,7 @@ let boyA_global_Blink_Flag = true;
                                 }
                                 this.speakState = SpeakState.Speaking;
                                 this.speakSpeed = speakSpeed;
+                                this.speakMouthSize = Mouth_Size;
                                 this.emit("StartSpeak");
                             };
                             this.startVoice = (pixiApp, audioBuffer, frequency) => {
