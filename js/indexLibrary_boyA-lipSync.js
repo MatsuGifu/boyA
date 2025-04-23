@@ -60839,6 +60839,7 @@ let boyA_global_Blink_Flag = true;
                                     console.log(`このモデルの高さは${this.model.height}、横幅は${this.model.width}`);
 
                                     $("#agent_visible_flag").html("2");
+                                    $("#completedAgentType").html("boyA");
                                     const event = new CustomEvent('processCompleted', { detail: { status: 'DisplayCompletedBoyA' } });
                                     document.dispatchEvent(event);
                                     
